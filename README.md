@@ -1,1 +1,1 @@
-# caresync_adf_repo
+This Repo is for care sync project
